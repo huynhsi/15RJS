@@ -1,12 +1,11 @@
-import React from 'react'
-import Navbar from './Navbar'
-import Sidebar from './Sidebar'
+import React from 'react';
+import Navbar from './Navbar';
 function App() {
   return (
     <>
-      <Navbar />
+      <Navbar></Navbar>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
